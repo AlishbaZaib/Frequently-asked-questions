@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight:bold;
+    margin-bottom: 16px;
+}
+.subtitle{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+}
+div {
+    height: 170px;
+    width: 300;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.faq a {
+    text-decoration: none;
+    font-family:'Inter', sans-serif;
+    
+}
+.faq{
+    
+    padding-left: 240px; /* Set your desired padding left */
+    padding-right: 240px; /* Set your desired padding right */
+    padding-top: 10px; /* Adjust top padding as necessary */
+    padding-bottom: 10px; /* Adjust bottom padding as necessary */
+    margin: 0; /* Reset margins to avoid spacing issues */
+      
+
+}
+
+
+
+
+
